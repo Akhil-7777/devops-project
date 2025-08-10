@@ -1,0 +1,8 @@
+# Common .gitignore entries
+.DS_Store
+node_modules/
+*.log
+.env
+.venv
+__pycache__/
+*.pyc
